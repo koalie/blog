@@ -13,7 +13,7 @@ categories:
 
 The [Google](https://www.google.ca/maps/@37.789904,-122.390576,15z) offices in San Francisco are nestled in a cluster of buildings the erstwhile center of the caffeine universe and the headquarters of Hills Bros. Coffee. It was here, where beans were once unloaded from ships, roasted, ground, canned, and shipped to supermarkets all over the U.S., that we attempted to apply the same level of industry to the production of more modern commodities: Web Platform Docs.
 
-![](//blog.webplatform.org/wp-content/uploads/2013/04/san-francisco-bridge.jpg)
+![](//static.webplatform.org/blog/2013/04/san-francisco-bridge.jpg)
 
 Eschewing the brown water of days gone by, we embarked with (good) coffee and breakfast in the Google cafe, which was right next to our designated conference room.
 
@@ -21,7 +21,7 @@ Eschewing the brown water of days gone by, we embarked with (good) coffee and br
 <blockquote>The Doc Sprint was a lot of fun...and rewarding, too! I probably gained at least five pounds, though, with all the great food. -[Dan Stormont](http://docs.webplatform.org/wiki/User:DanStormont)</blockquote>
 
 
-![](//blog.webplatform.org/wp-content/uploads/2013/04/webplatform-docsprint-nametags.jpg)
+![](//static.webplatform.org/blog/2013/04/webplatform-docsprint-nametags.jpg)
 
 [Peter Lubbers](http://docs.webplatform.org/wiki/User:Peterlubbers) had expertly made all the arrangements and had all of the name tags ready for participants, so getting in, grabbing a bite, and getting to work were unhindered.
 
@@ -31,7 +31,7 @@ Eschewing the brown water of days gone by, we embarked with (good) coffee and br
 
 [Julee Burdekin](http://docs.webplatform.org/wiki/User:Julee) spent the day helping contributors on the [CSS Properties project](http://docs.webplatform.org/wiki/WPD:Projects/CSS_Property_Milestone): [Macy Wong](http://docs.webplatform.org/wiki/User:Macywong73), [Carlos Araya](http://docs.webplatform.org/wiki/User:Caraya), [Heather White](http://docs.webplatform.org/wiki/User:Monksalive), [Emuvente](http://docs.webplatform.org/wiki/User:Emuvente), [Angela Lau](http://docs.webplatform.org/wiki/User:Angelausy), [Dan Stormont](http://docs.webplatform.org/wiki/User:DanStormont), and [Doug May](http://docs.webplatform.org/wiki/User:Dougmay) touched 47 properties, including reviewing existing properties, adding samples, and working on new properties. The status of 32 properties was updated, including 6 moving into review, and 16 reviewed. Great work!
 
-![](//blog.webplatform.org/wp-content/uploads/2013/04/webplatform-docsprint-shepazu-is-watching-you.jpg)
+![](//static.webplatform.org/blog/2013/04/webplatform-docsprint-shepazu-is-watching-you.jpg)
 
 Other outstanding contributions:  [Richard Trott](http://docs.webplatform.org/wiki/User:Trott) cranked out more small-but-indispensable edits than should be humanly possible; [Tony Sukiennik](http://docs.webplatform.org/wiki/User:Tony.sukiennik), explained the WebVTT format in the [audio-video](http://docs.webplatform.org/wiki/apis/audio-video/TextTrack) API ; [Jack Chi](http://docs.webplatform.org/wiki/User:Binchi), cooked up a nice [XHR](http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest) example; [Romain Briand](http://docs.webplatform.org/wiki/User:Romainbriand) translated our [main page](http://docs.webplatform.org/w/index.php?title=Main_Page/fr&rcid=299377) to French; [Pius Uzamere](http://docs.webplatform.org/wiki/User:Pius) pushed a lot of bits for HTML [span](http://docs.webplatform.org/wiki/html/elements/span) and other elements; [Linda Sager](http://docs.webplatform.org/wiki/User:Lindas415) improved the [Web Typography](http://docs.webplatform.org/wiki/concepts/web_typography) and other conceptual articles. Folks found lots to do on the site, and they chipped in some great content!
 
@@ -53,7 +53,7 @@ More celebrities: [Christian Heilmann](http://christianheilmann.com/) came by 
 <blockquote>I am glad I participated in the Doc Sprint. It feels great to make a contribution and learn in the process! Now I'm hooked. :) -[Angela Lau](http://docs.webplatform.org/wiki/User:Angelausy)</blockquote>
 
 
-![](//blog.webplatform.org/wp-content/uploads/2013/04/wpd-docsprint-beer-after-event.jpg)
+![](//static.webplatform.org/blog/2013/04/wpd-docsprint-beer-after-event.jpg)
 
 We raffled off a [ChromeBook](http://www.google.com/intl/en/chrome/devices/#utm_campaign=en&utm_source=en-ha-na-us-bkws&utm_medium=ha), and [Carlos Araya](http://docs.webplatform.org/wiki/User:Caraya) took home the prize. Congratulations, Carlos!
 

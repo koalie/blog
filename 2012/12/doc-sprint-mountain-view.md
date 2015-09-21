@@ -14,7 +14,7 @@ tags:
 
 A splendid time was had by all! On Wednesday, December 12th we gathered at Google in Mountain View, California to work on Web Platform Docs. We had over 35 attendees who worked on the site for a whole day. Google provided snacks, beverages, lunch, and a wine/beer reception afterward with live music. There was, of course, the usual t-shirts, and other cool swag - see below.
 
-![](//blog.webplatform.org/wp-content/uploads/2012/12/premium-webplatform-swag.jpg)
+![](//static.webplatform.org/blog/2012/12/premium-webplatform-swag.jpg)
 
 
 _Premium Web Platform Doc Sprint Swag_
@@ -22,7 +22,7 @@ _Premium Web Platform Doc Sprint Swag_
 
 Many of the attendees were new to Web Platform Docs - we registered 15 new users. So we spent some time early on walking them through the site and the Getting Started pages. Once they got going, they caught on pretty quickly. Having a group of folks doing a small task across a broad area really makes a big improvement. This is the power of a doc sprint, turning what would be a tedious and daunting chore into something doable; having company makes it fun and many hands make light work.
 
-![](//blog.webplatform.org/wp-content/uploads/2012/12/wpd-docsprint-folks-matthew-and-tony.jpg)
+![](//static.webplatform.org/blog/2012/12/wpd-docsprint-folks-matthew-and-tony.jpg)
 
 
 _Matthew and Tony_
@@ -48,7 +48,7 @@ As it is, we have only a limited amount of data from this doc sprint, and none o
 
 
 
-![](//blog.webplatform.org/wp-content/uploads/2012/12/wpd-folks-scott-and-eliott-talking.jpg)
+![](//static.webplatform.org/blog/2012/12/wpd-folks-scott-and-eliott-talking.jpg)
 
 
 _Dilip, Dickson, Scott Eliot, and Ming Ming_
